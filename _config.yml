@@ -2,7 +2,7 @@
 baseurl: "/Type-on-Strap"
 url: "https://airzhang23.github.io"
 title: Lei's Home # site's title
-description: "Power of Knowledge <br> Unleash Will" # used by search engines
+description: "Power of Knowledge" # used by search engines
 
 
 # THEME-SPECIFIC CONFIGURATION
@@ -15,7 +15,7 @@ theme_settings:
 
   # Header and footer text
   header_text: > #two or three lines to describe your site
-     <p>Power of Knowledge</p>
+     <p>Power of Knowledge<br> Unleash Your Will</p>
   header_text_feature_image: assets/img/pexels/triangular.jpeg
   footer_text: >
    Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/sylhare/Type-on-Strap">Lei</a>
